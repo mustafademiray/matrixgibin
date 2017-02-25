@@ -1,3 +1,3 @@
 # matrixgibin
-matrix filmindeki akan yeşil japoncalar 
+green japanese characters raining
 made with p5js
